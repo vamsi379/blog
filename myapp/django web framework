@@ -1,0 +1,180 @@
+django web framework
+
+python - flask, django
+php - laravel
+java - spring
+
+web framework - platform that enables programmers to create sotware/ webapps
+
+
+website
+
+django is written in python language
+
+basics like functions and classes (OOPS)
+
+requests -
+
+GET
+PUT
+POST
+DELETE
+
+response - 
+
+
+Python - Backend
+HTML/CSS/Bootstrap/ReactJS
+mysql,postgres
+
+
+functions 
+
+syntax:
+
+def functionname(args):
+	# process the data
+	return result
+
+statement
+
+
+if (con){
+	statement;
+	statement;
+}
+
+reusability
+
+arguments in functions
+
+positional arguments
+
+variable arguments (*args)
+
+Keyword arguments  (**kwargs)
+
+Classes:
+
+(OOPS)
+
+instance is started
+
+syntax:
+
+class ClassName:
+	#statements
+
+pip : pypi-python package installer
+
+pip install django
+
+DRY - Donot Repeat Yourself
+
+pip install --upgrade django
+
+pip install django==3.1.4
+
+3.x.x
+
+virtual environment:
+
+install virtual environment:
+
+pip install virtualenv
+
+create virtual env:
+
+virtualenv env1
+
+Workspace (folder)/ Working Directory
+
+activate virtualenv:
+
+.\env1\Scripts\activate
+
+(env1) C:\Users\Name\Desktop\myproject>
+
+
+Create django Project
+
+django-admin startproject mysite
+
+MVT Architechture
+
+URLS
+Models
+Views
+Templates
+forms
+
+deploy into cloud
+
+
+
+
+
+To create an application in django site:
+
+python manage.py startapp myapp
+
+
+add the name of app in settings.py 
+
+INSTALLED_APPS
+
+Include another url configuration
+
+UserTimestamp
+-----------------
+user
+timestamp
+
+
+Blog(UserTimestamp)
+---------------
+title
+img500x600
+img2000x1420
+img2000x1333
+description
+
+Comments(UserTimestamp)
+---------------
+comment
+
+To Create Super User
+python manage.py createsuperuser
+
+Template Inheritation
+Forms
+Deploy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
